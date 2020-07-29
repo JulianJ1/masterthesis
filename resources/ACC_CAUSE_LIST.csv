@@ -1,399 +1,403 @@
 ACCAUSE;ACCAUSE_LVL1;ACCAUSE_LVL2
-T001;Roadbed;TRACK, ROADBED AND STRUCTURES
-T002;Roadbed;TRACK, ROADBED AND STRUCTURES
-T099;Roadbed;TRACK, ROADBED AND STRUCTURES
-T101;Track Geometry;TRACK, ROADBED AND STRUCTURES
-T102;Track Geometry;TRACK, ROADBED AND STRUCTURES
-T103;Track Geometry;TRACK, ROADBED AND STRUCTURES
-T104;Track Geometry;TRACK, ROADBED AND STRUCTURES
-T105;Track Geometry;TRACK, ROADBED AND STRUCTURES
-T106;Track Geometry;TRACK, ROADBED AND STRUCTURES
-T107;Track Geometry;TRACK, ROADBED AND STRUCTURES
-T108;Track Geometry;TRACK, ROADBED AND STRUCTURES
-T109;Track Geometry;TRACK, ROADBED AND STRUCTURES
-T110;Track Geometry;TRACK, ROADBED AND STRUCTURES
-T111;Track Geometry;TRACK, ROADBED AND STRUCTURES
-T112;Track Geometry;TRACK, ROADBED AND STRUCTURES
-T113;Track Geometry;TRACK, ROADBED AND STRUCTURES
-T199;Track Geometry;TRACK, ROADBED AND STRUCTURES
-T201;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T202;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T203;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T204;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T205;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T206;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T207;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T208;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T210;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T211;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T212;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T213;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T214;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T215;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T216;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T217;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T218;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T219;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T220;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T221;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T222;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T223;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T224;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T299;Rail, Joint Bar and Rail Anchoring;TRACK, ROADBED AND STRUCTURES
-T301;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T302;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T303;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T304;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T305;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T306;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T307;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T308;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T309;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T310;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T311;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T312;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T313;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T314;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T315;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T316;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T317;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T318;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T319;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T399;Frogs, Switches and Track Appliances;TRACK, ROADBED AND STRUCTURES
-T401;Other Way and Structure;TRACK, ROADBED AND STRUCTURES
-T402;Other Way and Structure;TRACK, ROADBED AND STRUCTURES
-T403;Other Way and Structure;TRACK, ROADBED AND STRUCTURES
-T404;Other Way and Structure;TRACK, ROADBED AND STRUCTURES
-T499;Other Way and Structure;TRACK, ROADBED AND STRUCTURES
-S001;SIGNAL AND COMMUNICATION;SIGNAL AND COMMUNICATIONÊ
-S002;SIGNAL AND COMMUNICATION;SIGNAL AND COMMUNICATIONÊ
-S003;SIGNAL AND COMMUNICATION;SIGNAL AND COMMUNICATIONÊ
-S004;SIGNAL AND COMMUNICATION;SIGNAL AND COMMUNICATIONÊ
-S005;SIGNAL AND COMMUNICATION;SIGNAL AND COMMUNICATIONÊ
-S006;SIGNAL AND COMMUNICATION;SIGNAL AND COMMUNICATIONÊ
-S007;SIGNAL AND COMMUNICATION;SIGNAL AND COMMUNICATIONÊ
-S008;SIGNAL AND COMMUNICATION;SIGNAL AND COMMUNICATIONÊ
-S009;SIGNAL AND COMMUNICATION;SIGNAL AND COMMUNICATIONÊ
-S010;SIGNAL AND COMMUNICATION;SIGNAL AND COMMUNICATIONÊ
-S011;SIGNAL AND COMMUNICATION;SIGNAL AND COMMUNICATIONÊ
-S012;SIGNAL AND COMMUNICATION;SIGNAL AND COMMUNICATIONÊ
-S013;SIGNAL AND COMMUNICATION;SIGNAL AND COMMUNICATIONÊ
-S014;SIGNAL AND COMMUNICATION;SIGNAL AND COMMUNICATIONÊ
-S015;SIGNAL AND COMMUNICATION;SIGNAL AND COMMUNICATIONÊ
-S016;SIGNAL AND COMMUNICATION;SIGNAL AND COMMUNICATIONÊ
-S099;other software/programming deficiencies, etc.);SIGNAL AND COMMUNICATIONÊ
-S101;other software/programming deficiencies, etc.);SIGNAL AND COMMUNICATIONÊ
-S102;other software/programming deficiencies, etc.);SIGNAL AND COMMUNICATIONÊ
-S103;other software/programming deficiencies, etc.);SIGNAL AND COMMUNICATIONÊ
-S104;other software/programming deficiencies, etc.);SIGNAL AND COMMUNICATIONÊ
-E00C;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E00L;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E01C;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E01L;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E02C;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E02L;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E03C;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E03L;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E04C;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E04L;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E05C;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E05L;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E06C;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E06L;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E07C;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E07L;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E08C;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E08L;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E0HC;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E0HL;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E09C;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E09L;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E10L;Brakes;MECHANICAL AND ELECTRICAL FAILURES
-E11C;Trailer or Container on Flatcar;MECHANICAL AND ELECTRICAL FAILURES
-E12C;Trailer or Container on Flatcar;MECHANICAL AND ELECTRICAL FAILURES
-E13C;Trailer or Container on Flatcar;MECHANICAL AND ELECTRICAL FAILURES
-E19C;Trailer or Container on Flatcar;MECHANICAL AND ELECTRICAL FAILURES
-E20C;Body;MECHANICAL AND ELECTRICAL FAILURES
-E20L;Body;MECHANICAL AND ELECTRICAL FAILURES
-E21C;Body;MECHANICAL AND ELECTRICAL FAILURES
-E21L;Body;MECHANICAL AND ELECTRICAL FAILURES
-E22C;Body;MECHANICAL AND ELECTRICAL FAILURES
-E22L;Body;MECHANICAL AND ELECTRICAL FAILURES
-E23C;Body;MECHANICAL AND ELECTRICAL FAILURES
-E23L;Body;MECHANICAL AND ELECTRICAL FAILURES
-E24C;Body;MECHANICAL AND ELECTRICAL FAILURES
-E24L;Body;MECHANICAL AND ELECTRICAL FAILURES
-E25C;Body;MECHANICAL AND ELECTRICAL FAILURES
-E25L;Body;MECHANICAL AND ELECTRICAL FAILURES
-E26C;Body;MECHANICAL AND ELECTRICAL FAILURES
-E26L;Body;MECHANICAL AND ELECTRICAL FAILURES
-E27C;Body;MECHANICAL AND ELECTRICAL FAILURES
-E27L;Body;MECHANICAL AND ELECTRICAL FAILURES
-E29C;Body;MECHANICAL AND ELECTRICAL FAILURES
-E29L;Body;MECHANICAL AND ELECTRICAL FAILURES
-E30C;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E30L;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E31C;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E31L;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E32C;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E32L;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E33C;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E33L;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E34C;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E34L;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E35C;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E35L;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E36C;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E36L;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E37C;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E37L;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E39C;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E39L;Coupler and Draft System;MECHANICAL AND ELECTRICAL FAILURES
-E40C;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E40L;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E41C;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E41L;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E42C;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E42L;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E43C;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E43L;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E44C;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E44L;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E45C;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E45L;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E46C;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E4AC;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E4BC;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E46L;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E47C;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E47L;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E48C;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E48L;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E4TC;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E4TL;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E49C;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E49L;Truck Components;MECHANICAL AND ELECTRICAL FAILURES
-E51C;Axles and Journal Bearings;MECHANICAL AND ELECTRICAL FAILURES
-E51L;Axles and Journal Bearings;MECHANICAL AND ELECTRICAL FAILURES
-E52C;Axles and Journal Bearings;MECHANICAL AND ELECTRICAL FAILURES
-E52L;Axles and Journal Bearings;MECHANICAL AND ELECTRICAL FAILURES
-E53C;Axles and Journal Bearings;MECHANICAL AND ELECTRICAL FAILURES
-E53L;Axles and Journal Bearings;MECHANICAL AND ELECTRICAL FAILURES
-E54C;Axles and Journal Bearings;MECHANICAL AND ELECTRICAL FAILURES
-E54L;Axles and Journal Bearings;MECHANICAL AND ELECTRICAL FAILURES
-E55C;Axles and Journal Bearings;MECHANICAL AND ELECTRICAL FAILURES
-E55L;Axles and Journal Bearings;MECHANICAL AND ELECTRICAL FAILURES
-E59C;Axles and Journal Bearings;MECHANICAL AND ELECTRICAL FAILURES
-E59L;Axles and Journal Bearings;MECHANICAL AND ELECTRICAL FAILURES
-E60C;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E60L;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E61C;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E61L;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E62C;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E62L;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E63C;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E63L;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E64C;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E64L;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E65C;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E65L;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E66C;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E66L;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E67C;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E67L;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E68C;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E68L;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E6AC;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E6AL;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E69C;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E69L;Wheels;MECHANICAL AND ELECTRICAL FAILURES
-E70L;Locomotives;MECHANICAL AND ELECTRICAL FAILURES
-E71L;Locomotives;MECHANICAL AND ELECTRICAL FAILURES
-E72L;Locomotives;MECHANICAL AND ELECTRICAL FAILURES
-E73L;Locomotives;MECHANICAL AND ELECTRICAL FAILURES
-E74L;Locomotives;MECHANICAL AND ELECTRICAL FAILURES
-E75L;Locomotives;MECHANICAL AND ELECTRICAL FAILURES
-E76L;Locomotives;MECHANICAL AND ELECTRICAL FAILURES
-E77L;Locomotives;MECHANICAL AND ELECTRICAL FAILURES
-E78L;Locomotives;MECHANICAL AND ELECTRICAL FAILURES
-E7AL;Locomotives;MECHANICAL AND ELECTRICAL FAILURES
-E7BL;Locomotives;MECHANICAL AND ELECTRICAL FAILURES
-E79L;Locomotives;MECHANICAL AND ELECTRICAL FAILURES
-E80C;Doors;MECHANICAL AND ELECTRICAL FAILURES
-E81C;Doors;MECHANICAL AND ELECTRICAL FAILURES
-E82C;Doors;MECHANICAL AND ELECTRICAL FAILURES
-E83C;Doors;MECHANICAL AND ELECTRICAL FAILURES
-E84C;Doors;MECHANICAL AND ELECTRICAL FAILURES
-E85C;Doors;MECHANICAL AND ELECTRICAL FAILURES
-E86C;Doors;MECHANICAL AND ELECTRICAL FAILURES
-E89C;Doors;MECHANICAL AND ELECTRICAL FAILURES
-E99C;General Mechanical and Electrical Failures;MECHANICAL AND ELECTRICAL FAILURES
-E99L;General Mechanical and Electrical Failures;MECHANICAL AND ELECTRICAL FAILURES
-H008;Brakes, Use of;TRAIN OPERATION - HUMAN FACTORS
-H017;Brakes, Use of;TRAIN OPERATION - HUMAN FACTORS
-H018;Brakes, Use of;TRAIN OPERATION - HUMAN FACTORS
-H019;Brakes, Use of;TRAIN OPERATION - HUMAN FACTORS
-H020;Brakes, Use of;TRAIN OPERATION - HUMAN FACTORS
-H021;Brakes, Use of;TRAIN OPERATION - HUMAN FACTORS
-H022;Brakes, Use of;TRAIN OPERATION - HUMAN FACTORS
-H025;Brakes, Use of;TRAIN OPERATION - HUMAN FACTORS
-H099;Brakes, Use of;TRAIN OPERATION - HUMAN FACTORS
-H101;Employee Physical Condition;TRAIN OPERATION - HUMAN FACTORS
-H102;Employee Physical Condition;TRAIN OPERATION - HUMAN FACTORS
-H103;Employee Physical Condition;TRAIN OPERATION - HUMAN FACTORS
-H104;Employee Physical Condition;TRAIN OPERATION - HUMAN FACTORS
-H199;Employee Physical Condition;TRAIN OPERATION - HUMAN FACTORS
-H201;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H202;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H204;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H205;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H206;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H207;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H208;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H209;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H210;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H211;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H212;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H215;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H216;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H217;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H218;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H219;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H220;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H221;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H222;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H299;Flagging, Fixed, Hand and Radio Signals;TRAIN OPERATION - HUMAN FACTORS
-H301;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H302;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H303;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H304;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H305;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H306;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H307;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H308;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H309;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H310;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H311;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H312;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H313;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H314;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H315;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H316;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H317;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H318;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H399;General Switching Rules;TRAIN OPERATION - HUMAN FACTORS
-H401;Main Track Authority;TRAIN OPERATION - HUMAN FACTORS
-H402;Main Track Authority;TRAIN OPERATION - HUMAN FACTORS
-H403;Main Track Authority;TRAIN OPERATION - HUMAN FACTORS
-H404;Main Track Authority;TRAIN OPERATION - HUMAN FACTORS
-H405;Main Track Authority;TRAIN OPERATION - HUMAN FACTORS
-H406;Main Track Authority;TRAIN OPERATION - HUMAN FACTORS
-H499;Main Track Authority;TRAIN OPERATION - HUMAN FACTORS
-H501;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H502;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H503;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H504;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H505;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H506;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H507;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H508;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H509;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H510;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H511;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H512;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H513;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H514;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H515;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H516;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H517;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H518;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H519;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H520;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H521;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H522;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H523;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H524;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H525;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H526;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H599;Train Handling/Train Makeup;TRAIN OPERATION - HUMAN FACTORS
-H601;Speed;TRAIN OPERATION - HUMAN FACTORS
-H602;Speed;TRAIN OPERATION - HUMAN FACTORS
-H603;Speed;TRAIN OPERATION - HUMAN FACTORS
-H604;Speed;TRAIN OPERATION - HUMAN FACTORS
-H605;Speed;TRAIN OPERATION - HUMAN FACTORS
-H606;Speed;TRAIN OPERATION - HUMAN FACTORS
-H607;Speed;TRAIN OPERATION - HUMAN FACTORS
-H699;Speed;TRAIN OPERATION - HUMAN FACTORS
-H701;Switches, Use of;TRAIN OPERATION - HUMAN FACTORS
-H702;Switches, Use of;TRAIN OPERATION - HUMAN FACTORS
-H703;Switches, Use of;TRAIN OPERATION - HUMAN FACTORS
-H704;Switches, Use of;TRAIN OPERATION - HUMAN FACTORS
-H705;Switches, Use of;TRAIN OPERATION - HUMAN FACTORS
-H706;Switches, Use of;TRAIN OPERATION - HUMAN FACTORS
-H707;Switches, Use of;TRAIN OPERATION - HUMAN FACTORS
-H799;Switches, Use of;TRAIN OPERATION - HUMAN FACTORS
-H821;Cab Signals;TRAIN OPERATION - HUMAN FACTORS
-H822;Cab Signals;TRAIN OPERATION - HUMAN FACTORS
-H823;Cab Signals;TRAIN OPERATION - HUMAN FACTORS
-H824;Cab Signals;TRAIN OPERATION - HUMAN FACTORS
-H899;Cab Signals;TRAIN OPERATION - HUMAN FACTORS
-H991;Miscellaneous;TRAIN OPERATION - HUMAN FACTORS
-H992;Miscellaneous;TRAIN OPERATION - HUMAN FACTORS
-H993;Miscellaneous;TRAIN OPERATION - HUMAN FACTORS
-H994;Miscellaneous;TRAIN OPERATION - HUMAN FACTORS
-H99A;Miscellaneous;TRAIN OPERATION - HUMAN FACTORS
-H99B;Miscellaneous;TRAIN OPERATION - HUMAN FACTORS
-H99C;Miscellaneous;TRAIN OPERATION - HUMAN FACTORS
-H99D;Miscellaneous;TRAIN OPERATION - HUMAN FACTORS
-H99E;Miscellaneous;TRAIN OPERATION - HUMAN FACTORS
-H995;Miscellaneous;TRAIN OPERATION - HUMAN FACTORS
-H996;Miscellaneous;TRAIN OPERATION - HUMAN FACTORS
-H997;Miscellaneous;TRAIN OPERATION - HUMAN FACTORS
-H999;Miscellaneous;TRAIN OPERATION - HUMAN FACTORS
-M101;Environmental Conditions;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M102;Environmental Conditions;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M103;Environmental Conditions;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M104;Environmental Conditions;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M105;Environmental Conditions;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M199;Environmental Conditions;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M201;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M202;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M203;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M204;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M205;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M206;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M207;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M208;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M299;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M301;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M302;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M303;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M304;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M305;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M306;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M307;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M308;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M309;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M310;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M399;Loading Procedures;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M401;Unusual Operational Situations;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M402;Unusual Operational Situations;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M403;Unusual Operational Situations;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M404;Unusual Operational Situations;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M405;Unusual Operational Situations;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M406;Unusual Operational Situations;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M407;Unusual Operational Situations;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M408;Unusual Operational Situations;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M409;Unusual Operational Situations;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M410;Unusual Operational Situations;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M411;Unusual Operational Situations;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M501;Other Miscellaneous;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M502;Other Miscellaneous;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M503;Other Miscellaneous;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M504;Other Miscellaneous;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M505;Other Miscellaneous;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M506;Other Miscellaneous;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M507;Other Miscellaneous;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M509;Other Miscellaneous;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M510;Other Miscellaneous;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
-M599;Other Miscellaneous;MISCELLANEOUS CAUSES NOT OTHERWISE LISTED
+T001;Roadbed;Track, Roadbed and Structures
+T002;Roadbed;Track, Roadbed and Structures
+T099;Roadbed;Track, Roadbed and Structures
+T101;Track Geometry;Track, Roadbed and Structures
+T102;Track Geometry;Track, Roadbed and Structures
+T103;Track Geometry;Track, Roadbed and Structures
+T104;Track Geometry;Track, Roadbed and Structures
+T105;Track Geometry;Track, Roadbed and Structures
+T106;Track Geometry;Track, Roadbed and Structures
+T107;Track Geometry;Track, Roadbed and Structures
+T108;Track Geometry;Track, Roadbed and Structures
+T109;Track Geometry;Track, Roadbed and Structures
+T110;Track Geometry;Track, Roadbed and Structures
+T111;Track Geometry;Track, Roadbed and Structures
+T112;Track Geometry;Track, Roadbed and Structures
+T113;Track Geometry;Track, Roadbed and Structures
+T199;Track Geometry;Track, Roadbed and Structures
+T201;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T202;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T203;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T204;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T205;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T206;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T207;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T208;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T210;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T211;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T212;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T213;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T214;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T215;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T216;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T217;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T218;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T219;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T220;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T221;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T222;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T223;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T224;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T299;Rail, Joint Bar and Rail Anchoring;Track, Roadbed and Structures
+T301;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T302;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T303;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T304;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T305;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T306;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T307;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T308;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T309;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T310;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T311;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T312;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T313;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T314;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T315;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T316;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T317;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T318;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T319;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T399;Frogs, Switches and Track Appliances;Track, Roadbed and Structures
+T401;Other Way and Structure;Track, Roadbed and Structures
+T402;Other Way and Structure;Track, Roadbed and Structures
+T403;Other Way and Structure;Track, Roadbed and Structures
+T404;Other Way and Structure;Track, Roadbed and Structures
+T499;Other Way and Structure;Track, Roadbed and Structures
+S001;SIGNAL AND COMMUNICATION;Signal and Communication
+S002;SIGNAL AND COMMUNICATION;Signal and Communication
+S003;SIGNAL AND COMMUNICATION;Signal and Communication
+S004;SIGNAL AND COMMUNICATION;Signal and Communication
+S005;SIGNAL AND COMMUNICATION;Signal and Communication
+S006;SIGNAL AND COMMUNICATION;Signal and Communication
+S007;SIGNAL AND COMMUNICATION;Signal and Communication
+S008;SIGNAL AND COMMUNICATION;Signal and Communication
+S009;SIGNAL AND COMMUNICATION;Signal and Communication
+S010;SIGNAL AND COMMUNICATION;Signal and Communication
+S011;SIGNAL AND COMMUNICATION;Signal and Communication
+S012;SIGNAL AND COMMUNICATION;Signal and Communication
+S013;SIGNAL AND COMMUNICATION;Signal and Communication
+S014;SIGNAL AND COMMUNICATION;Signal and Communication
+S015;SIGNAL AND COMMUNICATION;Signal and Communication
+S016;SIGNAL AND COMMUNICATION;Signal and Communication
+S099;other software/programming deficiencies, etc.);Signal and Communication
+S101;other software/programming deficiencies, etc.);Signal and Communication
+S102;other software/programming deficiencies, etc.);Signal and Communication
+S103;other software/programming deficiencies, etc.);Signal and Communication
+S104;other software/programming deficiencies, etc.);Signal and Communication
+E00C;Brakes;Mechanical and Electrical Failures
+E00L;Brakes;Mechanical and Electrical Failures
+E01C;Brakes;Mechanical and Electrical Failures
+E01L;Brakes;Mechanical and Electrical Failures
+E02C;Brakes;Mechanical and Electrical Failures
+E02L;Brakes;Mechanical and Electrical Failures
+E03C;Brakes;Mechanical and Electrical Failures
+E03L;Brakes;Mechanical and Electrical Failures
+E04C;Brakes;Mechanical and Electrical Failures
+E04L;Brakes;Mechanical and Electrical Failures
+E05C;Brakes;Mechanical and Electrical Failures
+E05L;Brakes;Mechanical and Electrical Failures
+E06C;Brakes;Mechanical and Electrical Failures
+E06L;Brakes;Mechanical and Electrical Failures
+E07C;Brakes;Mechanical and Electrical Failures
+E07L;Brakes;Mechanical and Electrical Failures
+E08C;Brakes;Mechanical and Electrical Failures
+E08L;Brakes;Mechanical and Electrical Failures
+E0HC;Brakes;Mechanical and Electrical Failures
+E0HL;Brakes;Mechanical and Electrical Failures
+E09C;Brakes;Mechanical and Electrical Failures
+E09L;Brakes;Mechanical and Electrical Failures
+E10L;Brakes;Mechanical and Electrical Failures
+E11C;Trailer or Container on Flatcar;Mechanical and Electrical Failures
+E12C;Trailer or Container on Flatcar;Mechanical and Electrical Failures
+E13C;Trailer or Container on Flatcar;Mechanical and Electrical Failures
+E19C;Trailer or Container on Flatcar;Mechanical and Electrical Failures
+E20C;Body;Mechanical and Electrical Failures
+E20L;Body;Mechanical and Electrical Failures
+E21C;Body;Mechanical and Electrical Failures
+E21L;Body;Mechanical and Electrical Failures
+E22C;Body;Mechanical and Electrical Failures
+E22L;Body;Mechanical and Electrical Failures
+E23C;Body;Mechanical and Electrical Failures
+E23L;Body;Mechanical and Electrical Failures
+E24C;Body;Mechanical and Electrical Failures
+E24L;Body;Mechanical and Electrical Failures
+E25C;Body;Mechanical and Electrical Failures
+E25L;Body;Mechanical and Electrical Failures
+E26C;Body;Mechanical and Electrical Failures
+E26L;Body;Mechanical and Electrical Failures
+E27C;Body;Mechanical and Electrical Failures
+E27L;Body;Mechanical and Electrical Failures
+E29C;Body;Mechanical and Electrical Failures
+E29L;Body;Mechanical and Electrical Failures
+E30C;Coupler and Draft System;Mechanical and Electrical Failures
+E30L;Coupler and Draft System;Mechanical and Electrical Failures
+E31C;Coupler and Draft System;Mechanical and Electrical Failures
+E31L;Coupler and Draft System;Mechanical and Electrical Failures
+E32C;Coupler and Draft System;Mechanical and Electrical Failures
+E32L;Coupler and Draft System;Mechanical and Electrical Failures
+E33C;Coupler and Draft System;Mechanical and Electrical Failures
+E33L;Coupler and Draft System;Mechanical and Electrical Failures
+E34C;Coupler and Draft System;Mechanical and Electrical Failures
+E34L;Coupler and Draft System;Mechanical and Electrical Failures
+E35C;Coupler and Draft System;Mechanical and Electrical Failures
+E35L;Coupler and Draft System;Mechanical and Electrical Failures
+E36C;Coupler and Draft System;Mechanical and Electrical Failures
+E36L;Coupler and Draft System;Mechanical and Electrical Failures
+E37C;Coupler and Draft System;Mechanical and Electrical Failures
+E37L;Coupler and Draft System;Mechanical and Electrical Failures
+E39C;Coupler and Draft System;Mechanical and Electrical Failures
+E39L;Coupler and Draft System;Mechanical and Electrical Failures
+E40C;Truck Components;Mechanical and Electrical Failures
+E40L;Truck Components;Mechanical and Electrical Failures
+E41C;Truck Components;Mechanical and Electrical Failures
+E41L;Truck Components;Mechanical and Electrical Failures
+E42C;Truck Components;Mechanical and Electrical Failures
+E42L;Truck Components;Mechanical and Electrical Failures
+E43C;Truck Components;Mechanical and Electrical Failures
+E43L;Truck Components;Mechanical and Electrical Failures
+E44C;Truck Components;Mechanical and Electrical Failures
+E44L;Truck Components;Mechanical and Electrical Failures
+E45C;Truck Components;Mechanical and Electrical Failures
+E45L;Truck Components;Mechanical and Electrical Failures
+E46C;Truck Components;Mechanical and Electrical Failures
+E4AC;Truck Components;Mechanical and Electrical Failures
+E4BC;Truck Components;Mechanical and Electrical Failures
+E46L;Truck Components;Mechanical and Electrical Failures
+E47C;Truck Components;Mechanical and Electrical Failures
+E47L;Truck Components;Mechanical and Electrical Failures
+E48C;Truck Components;Mechanical and Electrical Failures
+E48L;Truck Components;Mechanical and Electrical Failures
+E4TC;Truck Components;Mechanical and Electrical Failures
+E4TL;Truck Components;Mechanical and Electrical Failures
+E49C;Truck Components;Mechanical and Electrical Failures
+E49L;Truck Components;Mechanical and Electrical Failures
+E51C;Axles and Journal Bearings;Mechanical and Electrical Failures
+E51L;Axles and Journal Bearings;Mechanical and Electrical Failures
+E52C;Axles and Journal Bearings;Mechanical and Electrical Failures
+E52L;Axles and Journal Bearings;Mechanical and Electrical Failures
+E53C;Axles and Journal Bearings;Mechanical and Electrical Failures
+E53L;Axles and Journal Bearings;Mechanical and Electrical Failures
+E54C;Axles and Journal Bearings;Mechanical and Electrical Failures
+E54L;Axles and Journal Bearings;Mechanical and Electrical Failures
+E55C;Axles and Journal Bearings;Mechanical and Electrical Failures
+E55L;Axles and Journal Bearings;Mechanical and Electrical Failures
+E59C;Axles and Journal Bearings;Mechanical and Electrical Failures
+E59L;Axles and Journal Bearings;Mechanical and Electrical Failures
+E60C;Wheels;Mechanical and Electrical Failures
+E60L;Wheels;Mechanical and Electrical Failures
+E61C;Wheels;Mechanical and Electrical Failures
+E61L;Wheels;Mechanical and Electrical Failures
+E62C;Wheels;Mechanical and Electrical Failures
+E62L;Wheels;Mechanical and Electrical Failures
+E63C;Wheels;Mechanical and Electrical Failures
+E63L;Wheels;Mechanical and Electrical Failures
+E64C;Wheels;Mechanical and Electrical Failures
+E64L;Wheels;Mechanical and Electrical Failures
+E65C;Wheels;Mechanical and Electrical Failures
+E65L;Wheels;Mechanical and Electrical Failures
+E66C;Wheels;Mechanical and Electrical Failures
+E66L;Wheels;Mechanical and Electrical Failures
+E67C;Wheels;Mechanical and Electrical Failures
+E67L;Wheels;Mechanical and Electrical Failures
+E68C;Wheels;Mechanical and Electrical Failures
+E68L;Wheels;Mechanical and Electrical Failures
+E6AC;Wheels;Mechanical and Electrical Failures
+E6AL;Wheels;Mechanical and Electrical Failures
+E69C;Wheels;Mechanical and Electrical Failures
+E69L;Wheels;Mechanical and Electrical Failures
+E70L;Locomotives;Mechanical and Electrical Failures
+E71L;Locomotives;Mechanical and Electrical Failures
+E72L;Locomotives;Mechanical and Electrical Failures
+E73L;Locomotives;Mechanical and Electrical Failures
+E74L;Locomotives;Mechanical and Electrical Failures
+E75L;Locomotives;Mechanical and Electrical Failures
+E76L;Locomotives;Mechanical and Electrical Failures
+E77L;Locomotives;Mechanical and Electrical Failures
+E78L;Locomotives;Mechanical and Electrical Failures
+E7AL;Locomotives;Mechanical and Electrical Failures
+E7BL;Locomotives;Mechanical and Electrical Failures
+E79L;Locomotives;Mechanical and Electrical Failures
+E80C;Doors;Mechanical and Electrical Failures
+E81C;Doors;Mechanical and Electrical Failures
+E82C;Doors;Mechanical and Electrical Failures
+E83C;Doors;Mechanical and Electrical Failures
+E84C;Doors;Mechanical and Electrical Failures
+E85C;Doors;Mechanical and Electrical Failures
+E86C;Doors;Mechanical and Electrical Failures
+E89C;Doors;Mechanical and Electrical Failures
+E92C;Doors;Mechanical and Electrical Failures
+E99C;General Mechanical and Electrical Failures;Mechanical and Electrical Failures
+E99L;General Mechanical and Electrical Failures;Mechanical and Electrical Failures
+H008;Brakes, Use of;Human Factors
+H017;Brakes, Use of;Human Factors
+H018;Brakes, Use of;Human Factors
+H019;Brakes, Use of;Human Factors
+H020;Brakes, Use of;Human Factors
+H021;Brakes, Use of;Human Factors
+H022;Brakes, Use of;Human Factors
+H025;Brakes, Use of;Human Factors
+H099;Brakes, Use of;Human Factors
+H101;Employee Physical Condition;Human Factors
+H102;Employee Physical Condition;Human Factors
+H103;Employee Physical Condition;Human Factors
+H104;Employee Physical Condition;Human Factors
+H199;Employee Physical Condition;Human Factors
+H201;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H202;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H203;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H204;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H205;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H206;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H207;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H208;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H209;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H210;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H211;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H212;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H215;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H216;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H217;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H218;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H219;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H220;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H221;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H222;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H299;Flagging, Fixed, Hand and Radio Signals;Human Factors
+H301;General Switching Rules;Human Factors
+H302;General Switching Rules;Human Factors
+H303;General Switching Rules;Human Factors
+H304;General Switching Rules;Human Factors
+H305;General Switching Rules;Human Factors
+H306;General Switching Rules;Human Factors
+H307;General Switching Rules;Human Factors
+H308;General Switching Rules;Human Factors
+H309;General Switching Rules;Human Factors
+H310;General Switching Rules;Human Factors
+H311;General Switching Rules;Human Factors
+H312;General Switching Rules;Human Factors
+H313;General Switching Rules;Human Factors
+H314;General Switching Rules;Human Factors
+H315;General Switching Rules;Human Factors
+H316;General Switching Rules;Human Factors
+H317;General Switching Rules;Human Factors
+H318;General Switching Rules;Human Factors
+H399;General Switching Rules;Human Factors
+H401;Main Track Authority;Human Factors
+H402;Main Track Authority;Human Factors
+H403;Main Track Authority;Human Factors
+H404;Main Track Authority;Human Factors
+H405;Main Track Authority;Human Factors
+H406;Main Track Authority;Human Factors
+H499;Main Track Authority;Human Factors
+H501;Train Handling/Train Makeup;Human Factors
+H502;Train Handling/Train Makeup;Human Factors
+H503;Train Handling/Train Makeup;Human Factors
+H504;Train Handling/Train Makeup;Human Factors
+H505;Train Handling/Train Makeup;Human Factors
+H506;Train Handling/Train Makeup;Human Factors
+H507;Train Handling/Train Makeup;Human Factors
+H508;Train Handling/Train Makeup;Human Factors
+H509;Train Handling/Train Makeup;Human Factors
+H510;Train Handling/Train Makeup;Human Factors
+H511;Train Handling/Train Makeup;Human Factors
+H512;Train Handling/Train Makeup;Human Factors
+H513;Train Handling/Train Makeup;Human Factors
+H514;Train Handling/Train Makeup;Human Factors
+H515;Train Handling/Train Makeup;Human Factors
+H516;Train Handling/Train Makeup;Human Factors
+H517;Train Handling/Train Makeup;Human Factors
+H518;Train Handling/Train Makeup;Human Factors
+H519;Train Handling/Train Makeup;Human Factors
+H520;Train Handling/Train Makeup;Human Factors
+H521;Train Handling/Train Makeup;Human Factors
+H522;Train Handling/Train Makeup;Human Factors
+H523;Train Handling/Train Makeup;Human Factors
+H524;Train Handling/Train Makeup;Human Factors
+H525;Train Handling/Train Makeup;Human Factors
+H526;Train Handling/Train Makeup;Human Factors
+H599;Train Handling/Train Makeup;Human Factors
+H601;Speed;Human Factors
+H602;Speed;Human Factors
+H603;Speed;Human Factors
+H604;Speed;Human Factors
+H605;Speed;Human Factors
+H606;Speed;Human Factors
+H607;Speed;Human Factors
+H699;Speed;Human Factors
+H701;Switches, Use of;Human Factors
+H702;Switches, Use of;Human Factors
+H703;Switches, Use of;Human Factors
+H704;Switches, Use of;Human Factors
+H705;Switches, Use of;Human Factors
+H706;Switches, Use of;Human Factors
+H707;Switches, Use of;Human Factors
+H799;Switches, Use of;Human Factors
+H821;Cab Signals;Human Factors
+H822;Cab Signals;Human Factors
+H823;Cab Signals;Human Factors
+H824;Cab Signals;Human Factors
+H899;Cab Signals;Human Factors
+H991;Miscellaneous;Human Factors
+H992;Miscellaneous;Human Factors
+H993;Miscellaneous;Human Factors
+H994;Miscellaneous;Human Factors
+H99A;Miscellaneous;Human Factors
+H99B;Miscellaneous;Human Factors
+H99C;Miscellaneous;Human Factors
+H99D;Miscellaneous;Human Factors
+H99E;Miscellaneous;Human Factors
+H995;Miscellaneous;Human Factors
+H996;Miscellaneous;Human Factors
+H997;Miscellaneous;Human Factors
+H999;Miscellaneous;Human Factors
+M101;Environmental Conditions;Environmental Conditions
+M102;Environmental Conditions;Environmental Conditions
+M103;Environmental Conditions;Environmental Conditions
+M104;Environmental Conditions;Environmental Conditions
+M105;Environmental Conditions;Environmental Conditions
+M199;Environmental Conditions;Environmental Conditions
+M201;Loading Procedures;Loading
+M202;Loading Procedures;Loading
+M203;Loading Procedures;Loading
+M204;Loading Procedures;Loading
+M205;Loading Procedures;Loading
+M206;Loading Procedures;Loading
+M207;Loading Procedures;Loading
+M208;Loading Procedures;Loading
+M299;Loading Procedures;Loading
+M301;Loading Procedures;Loading
+M302;Loading Procedures;Loading
+M303;Loading Procedures;Loading
+M304;Loading Procedures;Loading
+M305;Loading Procedures;Loading
+M306;Loading Procedures;Loading
+M307;Loading Procedures;Loading
+M308;Loading Procedures;Loading
+M309;Loading Procedures;Loading
+M310;Loading Procedures;Loading
+M399;Loading Procedures;Loading
+M401;Unusual Operational Situations;Miscellaneous Causes
+M402;Unusual Operational Situations;Miscellaneous Causes
+M403;Unusual Operational Situations;Miscellaneous Causes
+M404;Unusual Operational Situations;Miscellaneous Causes
+M405;Unusual Operational Situations;Miscellaneous Causes
+M406;Unusual Operational Situations;Miscellaneous Causes
+M407;Unusual Operational Situations;Miscellaneous Causes
+M408;Unusual Operational Situations;Miscellaneous Causes
+M409;Unusual Operational Situations;Miscellaneous Causes
+M410;Unusual Operational Situations;Miscellaneous Causes
+M411;Unusual Operational Situations;Miscellaneous Causes
+M501;Other Miscellaneous;Miscellaneous Causes
+M502;Other Miscellaneous;Miscellaneous Causes
+M503;Other Miscellaneous;Miscellaneous Causes
+M504;Other Miscellaneous;Miscellaneous Causes
+M505;Other Miscellaneous;Miscellaneous Causes
+M506;Other Miscellaneous;Miscellaneous Causes
+M507;Other Miscellaneous;Miscellaneous Causes
+M509;Other Miscellaneous;Miscellaneous Causes
+M510;Other Miscellaneous;Miscellaneous Causes
+M599;Other Miscellaneous;Miscellaneous Causes
+0;NaN;NaN
+E642;NaN;NaN
