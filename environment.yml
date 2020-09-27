@@ -60,10 +60,6 @@ dependencies:
   - scikit-learn
   - sqlite=3.28.0
   - statsmodels=0.10.1
-  - tensorboard=2.0.0
-  - tensorflow=2.0.0
-  - tensorflow-base=2.0.0
-  - tensorflow-estimator=2.0.0
   - tk=8.6.8
   - tornado=6.0.2
   - traitlets=4.3.2
@@ -79,4 +75,8 @@ dependencies:
     - currencyconverter==0.14.2
     - keras==2.4.2
     - knnimpute==0.1.0
+    - tensorboard==2.2.2
+    - tensorboard-plugin-wit==1.6.0.post3
+    - tensorflow==2.2.0
+    - tensorflow-estimator==2.2.0
 prefix: /anaconda3/envs/master
