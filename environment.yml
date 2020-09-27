@@ -59,7 +59,7 @@ dependencies:
   - six=1.12.0
   - scikit-learn
   - sqlite=3.28.0
-  - statsmodels=0.9.0
+  - statsmodels=0.10.1
   - tensorboard=2.0.0
   - tensorflow=2.0.0
   - tensorflow-base=2.0.0
